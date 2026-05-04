@@ -4,7 +4,7 @@
 
 **CS Grad · Data Enthusiast · Builder of Things That Work**
 
-London 📍 &nbsp;|&nbsp; [Portfolio](https://sabbirsaown.netlify.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sabbir-ahmaed-saown-b97545225/)
+London 📍 &nbsp;|&nbsp; [Portfolio](https://sabbirsaown.netlify.app) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sabbir-saown-b97545225/)
 
 ---
 
