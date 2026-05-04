@@ -11,14 +11,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://saownie.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabbir-saown-b97545225/)
 
-
 </div>
 
 ---
 
-### `> whoami`
+### `> Who Am I?`
 
-CS graduate from **London South Bank University** who builds things at the intersection of **data science**, **finance**, and **automation**. I don't just analyse data — I ship tools that people actually use.
+A CS graduate from **London South Bank University** who builds things at the intersection of **data science**, **finance**, and **automation**. I don't just analyse data, I ship tools that people actually use.
 
 ---
 
@@ -36,11 +35,10 @@ High-performance **quantitative finance terminal** — portfolio backtesting, Mo
 </td>
 <td width="50%">
 
-#### 🕌 [Religion Variable Data](https://github.com/Saownie)
-<!-- ⚠️ UPDATE THIS LINK to your actual repo URL -->
-Data analysis exploring **religion as a variable** — statistical modelling, visualisation, and pattern extraction from demographic datasets.
+#### 🕌 [Religion Variable Data](https://github.com/Saownie/religion-variable-dashboard)
+Data analysis exploring **religion as a variable** — statistical modelling, visualisation, and pattern extraction from Seshat Global datasets.
 
-<sub>Python · Pandas · Jupyter · Data Visualisation</sub>
+<sub>Python · JavaScript · Nodejs · Data Visualisation</sub>
 
 </td>
 </tr>
@@ -55,10 +53,10 @@ Python tool that scans raw kitchen **CSVs**, extracts guest orders & allergy not
 </td>
 <td width="50%">
 
-#### 🌐 [Portfolio Website](https://saownie.github.io/)
-Personal site showcasing projects & experience. Clean, responsive design.
+#### 🌐 [Fake News Detection System using BERT](https://github.com/Saownie/BERT-news-classifier)
+Fake news detection system with Google's BERT model using tokenization.
 
-<sub>HTML · CSS · JavaScript</sub>
+<sub>Python · ML Modelling · Database Management</sub>
 
 </td>
 </tr>
@@ -69,9 +67,9 @@ Personal site showcasing projects & experience. Clean, responsive design.
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,flask,pytorch,tensorflow,sklearn&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,r,flask,pytorch,tensorflow&theme=dark" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,bootstrap,materialui,nodejs,express&theme=dark" /><br/><br/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br/><br/>
 
