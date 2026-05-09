@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sabbir%20Ahamed%20Saown&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=CS%20Grad%20%C2%B7%20Data%20Enthusiast%20%C2%B7%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Sabbir%20%20Saown&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=CS%20Grad%20%C2%B7%20Data%20Enthusiast%20%C2%B7%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Turning+messy+data+into+clean+insights;Building+quantitative+finance+tools;Fine-tuning+ML+models+that+matter;London+%F0%9F%87%AC%F0%9F%87%A7+%7C+Open+to+Data+Roles" alt="Typing SVG" /></a>
